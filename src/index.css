@@ -1,0 +1,8 @@
+
+.link {
+    text-decoration: none;
+    color: #EEEEEE;
+    height: 100%;
+    transition: background-color 100ms ease-in-out;
+    transition: color 100ms ease-in;
+}
